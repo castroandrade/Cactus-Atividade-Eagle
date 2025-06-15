@@ -19,11 +19,13 @@ Este projeto no Eagle envolveu as seguintes etapas:
 
 
 
-### Diagrama Esquemático
+### Símbolo do Componente Customizado
+![image](https://github.com/user-attachments/assets/1a4565ed-d41e-4298-892c-cdf2e8b61ebe)
 
 
 
 ### Layout da PCB
+![image](https://github.com/user-attachments/assets/43544dcb-3224-4060-b92f-93d9ec06880f)
 
 
 ---
